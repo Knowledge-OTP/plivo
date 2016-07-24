@@ -1,0 +1,13 @@
+{
+  "name": "plivo",
+  "homepage": "https://github.com/Knowledge-OTP/plivo",
+  "authors": [
+    "assafhp <assaf.shp@gmail.com>"
+  ],
+  "description": "plivo web sdk",
+  "main": "dist/plivo.min.js",
+  "keywords": [
+    "plivo"
+  ],
+  "license": "MIT"
+}
